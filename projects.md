@@ -3,4 +3,4 @@ layout: page
 title: Projects
 ---
 
-Marie Curie CULT
+(Marie Curie CULT)[http://di.ionio.gr/]
