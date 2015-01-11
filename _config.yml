@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            HI
+tagline:          'Humanistic Informatics'
+description:      'Humanistic Informatics'
+url:              http://hi.di.ionio.gr
+baseurl:          /
+
+author:
+  name:           'Konstantinos Chorianopoulos'
+  url:            https://twitter.com/ep1dr0me
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/epidrome/hi
